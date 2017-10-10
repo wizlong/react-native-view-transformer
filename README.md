@@ -1,6 +1,11 @@
 # react-native-view-transformer
 
- A pure JavaScript RN component that makes **ANY** views transformable using gestures like pinch, double tap or pull.
+> This package is a fork of react-native-view-transformer that just have some
+> react updates.
+
+- Original package: [react-native-view-transformer](https://github.com/ldn0x7dc/react-native-view-transformer)
+
+A pure JavaScript RN component that makes **ANY** views transformable using gestures like pinch, double tap or pull.
 
 ![](Demo/demo.gif)
 
@@ -51,7 +56,7 @@ The most common case is to transform an image, or a photo, which is famous as a 
 
 ## Application
 
-Besides transforming an image, this component is helpful in implementing transition animations. 
+Besides transforming an image, this component is helpful in implementing transition animations.
 
 For example, you want to transform a normal size content into a right-bottom floating small window (like the android youtube app). Using this component, you can do as following:
 
